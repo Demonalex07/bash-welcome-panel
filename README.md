@@ -6,6 +6,18 @@ Un script de Bash personalizable que se ejecuta cada vez que abres una nueva ter
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ✨ Funcionalidades
 Este panel de bienvenida te ofrece de un vistazo:
 
